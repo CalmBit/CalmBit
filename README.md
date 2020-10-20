@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there, I'm CalmBit! 👋
 
-<!--
-**CalmBit/CalmBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on [Habitus](https://github.com/TridevMC/Habitus), [Smores](https://github.com/TridevMC/Smores), and [Gemfruit](https://github.com/Gemfruit/Gemfruit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✏️ Skills
+  - **Software Development**:	Java, C#, Kotlin, Go, Rust, C, C++, Ruby
+  - **Graphics Programming**:	OpenGL, Vulkan, Love2D, GLSL
+  - **Network Programming**:	Elixir, Netty, OpenSSL
+  - **Backend Development**:	VertX, Rocket, Ruby on Rails, Iris
+  - **Build Automation**:	Jenkins, Gradle, Maven, Github Actions
+  - **Game Engines**:	Godot, Unity, GameMaker Studio, XNA, LWJGL, GLFW, SDL2
+  - **Database Administration**:	MySQL, PostgreSQL, Redis, MongoDB, Cassandra, SQLite
+  
+### 🌱 Currently Learning
+  - Further Elixir/Erlang
+  - Lenses / Point Free Programming
+  - Haskell
+  
+### ⭐️ Featured Projects
+(see below!)
